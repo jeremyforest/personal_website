@@ -2,7 +2,9 @@
 title: Dendrites as a biologically inspired approach to overcome catastrophic forgetting
 ---
 
-Presentation is available [here](static/posts/2023_continualAI_unconference/presentation.html#/title-slide)
+Presentation is available [here](static/posts/2023_continualAI_unconference/presentation.html)
+<!-- Presentation is available [here](https://github.com/jeremyforest/presentations/blob/main/2023_ContinualAI_unconference/presentation.html) -->
+
 
 I'm showing data and exemples of why dendrites can be a neat mechanisms for biologically inspired innovation to overcome catastrophic forgetting.
 
