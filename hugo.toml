@@ -103,3 +103,6 @@ displayrssicon = true
     identifier = "CV"
     weight = 400
     url = "CV/CV.pdf"
+
+[markup.goldmark.renderer]
+unsafe= true
