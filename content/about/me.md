@@ -1,7 +1,7 @@
 +++
 title = 'Me'
 date = 2024-02-23T03:18:38-05:00
-draft = true
+draft = false
 +++
 
 I'm a bit of a jack of all trade. A neuroscientist by training, turned artificial neural network researcher and engineer, neuromorphics engineer and software developer. I love exploring new things !
