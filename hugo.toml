@@ -1,0 +1,99 @@
+## Basic Configuration
+
+baseurl = "https://jeremyforest.com/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Jeremy Forest"
+title = "Jeremy Forest"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "discusShortname" # Enable if you want to use Disqus
+# googleAnalytics = "UA-XXXXXXXX-X" # Enable if you want to use Google Analytics
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Jeremy Forest"
+intro = "Tinkerer of all things"
+description = " Neuroscience, Artificial Neural Network (deep learning, spiking neural networks), Software development, Neuromorphics"
+authorimage = "jeremy.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "jeremyforest"
+#instagram = "<username>"
+linkedin = "jeremy-forest-318090105"
+twitter = "jerem_forest"
+#facebook = "<username>"
+#google = "<username>"
+googlescholar = "yx9t92sAAAAJ&hl=fr"
+orcid = "0000-0002-8486-5559"
+#stackoverflow = "<username>"
+#lastfm = "<username>"
+#goodreads = "<username>"
+#gitlab = "<username>"
+#bitbucket = "<username>"
+#fivehundredpx = "<username>"
+#flickr = "<username>"
+#foursquare = "<username>"
+#hackernews = "<username>"
+#kickstarter = "<username>"
+#patreon = "<username>"
+#pintrest = "<username>"
+#steam = "<username>"
+#reddit = "<username>"
+#snapchat = "<username>"
+#youtube = "<channelid>"
+#keybase = "<username>"
+#twitch = "<username>"
+#soundcloud = "<username>"
+#tumblr = "<username>"
+#strava = "<username>"
+#skype = "<username>"
+#telegram = "<username>"
+#whatsapp = "<username>"
+#buymeacoffee = "<username>"
+#kaggle = "<username>"
+#holopin = "<username>"
+email = "jerem_forest@gmail.com"
+#pgp = "<key_fingerprint>"
+
+## Extras
+[params.extra]
+copyright = "© 2024. Jeremy Forest. [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog posts"
+    weight = 100
+    identifier = "posts"
+    url = "posts/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "about/"
+[[menu.main]]
+    name = "projects"
+    identifier = "projects"
+    weight = 300
+    url = "projects/"

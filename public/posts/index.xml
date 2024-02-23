@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jeremy Forest</title>
+    <link>https://jeremyforest.com/posts/</link>
+    <description>Recent content in Posts on Jeremy Forest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 23 Feb 2024 01:56:52 -0500</lastBuildDate>
+    <atom:link href="https://jeremyforest.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New theme</title>
+      <link>https://jeremyforest.com/posts/new_theme/</link>
+      <pubDate>Fri, 23 Feb 2024 01:56:52 -0500</pubDate>
+      <guid>https://jeremyforest.com/posts/new_theme/</guid>
+      <description>Changed theme Just decided to update the website theme with this one. It look really nice ! Will also move some things around and complete other missing pieces here and there. See you around !</description>
+    </item>
+  </channel>
+</rss>
