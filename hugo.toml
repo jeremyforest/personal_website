@@ -16,7 +16,7 @@ theme = "hugo-goa"
 
 ## Hugo Built-in Features
 # disqusShortname = "discusShortname" # Enable if you want to use Disqus
-googleAnalytics = "UA-38676921-2"
+googleAnalytics = "G-ZBKXRQEBEK"
 enableRobotsTXT = true
 
 ## Site Settings
