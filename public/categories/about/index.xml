@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on Jeremy Forest</title>
-    <link>http://localhost:44327/about/</link>
-    <description>Recent content in Abouts on Jeremy Forest</description>
+    <title>About on Jeremy Forest</title>
+    <link>https://jeremyforest.com/categories/about/</link>
+    <description>Recent content in About on Jeremy Forest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 23 Feb 2024 03:18:38 -0500</lastBuildDate>
-    <atom:link href="http://localhost:44327/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jeremyforest.com/categories/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Me</title>
-      <link>http://localhost:44327/about/me/</link>
+      <title>About</title>
+      <link>https://jeremyforest.com/about/</link>
       <pubDate>Fri, 23 Feb 2024 03:18:38 -0500</pubDate>
-      <guid>http://localhost:44327/about/me/</guid>
+      <guid>https://jeremyforest.com/about/</guid>
       <description>I&amp;rsquo;m a bit of a jack of all trade. A neuroscientist by training, turned artificial neural network researcher and engineer, neuromorphics engineer and software developer. I love exploring new things !&#xA;I currently hold a postdoc position in the lab of Thomas Cleland at Cornell University oriented towards a computational neuroscience approach where we are working on the development of better olfactory processing models and the implementation of these models in neuromorphic architectured.</description>
     </item>
   </channel>
