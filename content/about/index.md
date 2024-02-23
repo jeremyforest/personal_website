@@ -22,3 +22,6 @@ Besides academia, I've done consulting work in different startup doing data scie
 
 In my spare time I'm enjoying spending time with my family (my wife and twin daughters), going on hikes, climbing, homelabing, woodworking, gardening and tinkering widely with multiple projects.
 
+
+<!-- # Mastodon validation -->
+<!-- <a rel="me" href="https://neuromatch.social/@jeremyforest">Mastodon</a> -->

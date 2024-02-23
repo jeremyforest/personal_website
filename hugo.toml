@@ -34,6 +34,7 @@ keywords = "minimalist,blog,goa,hugo,developer"
 
 ## Social Accounts
 [params.social]
+mastodon = "@jeremyforest"
 github = "jeremyforest"
 #instagram = "<username>"
 linkedin = "jeremy-forest-318090105"
@@ -103,3 +104,7 @@ displayrssicon = true
     weight = 400
     url = "CV/CV.pdf"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
