@@ -5,6 +5,7 @@ builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
 
+
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
@@ -97,3 +98,8 @@ displayrssicon = true
     identifier = "projects"
     weight = 300
     url = "projects/"
+[[menu.main]]
+    name = "CV"
+    identifier = "CV"
+    weight = 400
+    url = "CV/CV.pdf"
