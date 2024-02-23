@@ -1,10 +1,5 @@
 ## Basic Configuration
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
 baseurl = "https://jeremyforest.com/"
 builddrafts = false
 canonifyurls = false

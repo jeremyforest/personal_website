@@ -1,6 +1,8 @@
----
-title: Dendrites as a biologically inspired approach to overcome catastrophic forgetting
----
++++
+title = 'Dendrites as a biologically inspired approach to overcome catastrophic forgetting'
+date = 2023-12-31T01:56:52-05:00
+draft = false
++++
 
 Presentation is available [here](https://github.com/jeremyforest/presentations/blob/main/2023_ContinualAI_unconference/presentation.html)
 

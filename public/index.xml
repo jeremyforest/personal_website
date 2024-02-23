@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
+    <title>Jeremy Forest</title>
+    <link>https://jeremyforest.com/</link>
+    <description>Recent content on Jeremy Forest</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-US</language>
     <lastBuildDate>Fri, 23 Feb 2024 01:56:52 -0500</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jeremyforest.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New theme</title>
-      <link>/posts/2024_new_theme/</link>
+      <link>https://jeremyforest.com/posts/2024_new_theme/</link>
       <pubDate>Fri, 23 Feb 2024 01:56:52 -0500</pubDate>
-      <guid>/posts/2024_new_theme/</guid>
+      <guid>https://jeremyforest.com/posts/2024_new_theme/</guid>
       <description>Changed theme Just decided to update the website theme with this one. It look really nice ! Will also move some things around and complete other missing pieces here and there. See you around !</description>
     </item>
     <item>
       <title>Dendrites as a biologically inspired approach to overcome catastrophic forgetting</title>
-      <link>/posts/2023_continualai_unconference/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/2023_continualai_unconference/</guid>
+      <link>https://jeremyforest.com/posts/2023_continualai_unconference/</link>
+      <pubDate>Sun, 31 Dec 2023 01:56:52 -0500</pubDate>
+      <guid>https://jeremyforest.com/posts/2023_continualai_unconference/</guid>
       <description>Presentation is available here&#xA;I&amp;rsquo;m showing data and exemples of why dendrites can be a neat mechanisms for biologically inspired innovation to overcome catastrophic forgetting.&#xA;Abstract: Dendrites constitute a major unit element of biological neurons and more generally biological neural networks. Their multiple properties have mostly been ignored by the broader neuroscience and machine learning communities due to their lack of conceptual usefulness. So far, the theoretical framework of dendrites has been more or less that of summarizing the synaptic input activity to the soma.</description>
     </item>
   </channel>
