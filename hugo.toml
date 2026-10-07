@@ -29,8 +29,8 @@ dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
-keywords = "minimalist,blog,goa,hugo,developer"
+description = "Jeremy Forest: neuroscientist, artificial neural network and neuromorphic engineer, software developer."
+keywords = "neuroscience,deep learning,spiking neural networks,neuromorphic,software development"
 
 ## Social Accounts
 [params.social]
@@ -41,7 +41,7 @@ linkedin = "jeremy-forest-318090105"
 twitter = "jerem_forest"
 #facebook = "<username>"
 #google = "<username>"
-googlescholar = "yx9t92sAAAAJ&hl=fr"
+googlescholar = "yx9t92sAAAAJ"
 orcid = "0000-0002-8486-5559"
 #stackoverflow = "<username>"
 #lastfm = "<username>"
@@ -75,7 +75,7 @@ email = "jerem_forest@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2024. Jeremy Forest. [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)."
+copyright = "© 2024–2026. Jeremy Forest. [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)."
 poweredby = true
 highlightjs = true
 socialmarkup = true

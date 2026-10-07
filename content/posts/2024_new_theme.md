@@ -6,4 +6,4 @@ draft = false
 
 ## Changed theme
 
-I udpated the website's theme with this one. It look really nice ! I will also move some things around and complete other missing pieces here and there. See you around !
+I updated the website's theme with this one. It looks really nice ! I will also move some things around and complete other missing pieces here and there. See you around !

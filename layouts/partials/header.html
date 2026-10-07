@@ -51,12 +51,12 @@
         <!-- Adding google analytics -->
         {{ template "_internal/google_analytics.html" . }}
 
-        <!-- Dark mode toggle -->
-        {{ template "partials/toggle.html" . }}
         <link rel="stylesheet" href="{{ "css/dark-mode.css" | absURL }}">
 
     
     </head>
 
     <body lang="{{ .Site.LanguageCode }}">
+        <!-- Dark mode toggle -->
+        {{ template "partials/toggle.html" . }}
         <div class="container my-auto">
